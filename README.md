@@ -70,7 +70,7 @@ PyGame
 
 ### Праграмное решение
 
-```pyton
+```python
 import tkinter as tk
 from tkinter import messagebox
 
